@@ -14,3 +14,6 @@ requests==2.25.1
 sqlparse==0.4.1
 uritemplate==3.0.1
 urllib3==1.26.2
+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
+
+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
